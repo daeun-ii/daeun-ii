@@ -4,10 +4,10 @@
 
 <!-- 🛠️ Tech Stacks -->
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
 
   <!-- Frontend -->
-  <div style="font-weight: bold; margin-bottom: 10px;">📌 Frontend</div>
+  <h2 style="font-weight: bold; margin-bottom: 10px;">Frontend</h2>
   <div style="margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
@@ -19,7 +19,7 @@
   </div>
 
   <!-- Backend -->
-  <div style="font-weight: bold; margin-bottom: 6px;">📌 Backend</div>
+  <h2 style="font-weight: bold; margin-bottom: 6px;">Backend</h2>
   <div style="margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -27,7 +27,7 @@
   </div>
 
   <!-- Tools / Libraries -->
-  <div style="font-weight: bold; margin-bottom: 6px;">📌 Tools & Libraries</div>
+  <h2 style="font-weight: bold; margin-bottom: 6px;">Tools & Libraries</h2>
   <div style="margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React-Query&logoColor=white">
@@ -61,4 +61,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=daeun-ii&custom_title=daeun-ii's GitHub Stats&bg_color=180,ffffff,&title_color=000000&text_color=000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeun-ii&layout=compact&bg_color=180,ffffff,&title_color=000000&text_color=000000" />
   </div>  
+  
 </div>
