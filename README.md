@@ -4,7 +4,7 @@
 
 <!-- 🛠️ Tech Stacks -->
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
 
   <!-- Frontend -->
   <h2 style="font-weight: bold; margin-bottom: 10px;">Frontend</h2>
@@ -43,7 +43,7 @@
 
 <!-- 🧑‍💻 Contact -->
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
   <div style="text-align: left;">
     <a href="https://velog.io/@valeni">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
