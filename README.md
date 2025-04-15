@@ -7,7 +7,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 
   <!-- Frontend -->
-  <div style="font-weight: bold; margin-bottom: 6px;">📌 Frontend</div>
+  <div style="font-weight: bold; margin-bottom: 10px;">📌 Frontend</div>
   <div style="margin-bottom: 12px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
